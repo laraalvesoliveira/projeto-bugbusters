@@ -1,0 +1,23 @@
+{
+  "name": "projeto-bugbusters",
+  "version": "1.0.0",
+  "description": "Este repositório contém o projeto de testes desenvolvido pelo grupo **BugBusters** durante o Bootcamp Atlântico Avanti, com foco na aplicação [QAzando](https://automationpratice.com.br/).",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laraalvesoliveira/projeto-bugbusters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laraalvesoliveira/projeto-bugbusters/issues"
+  },
+  "homepage": "https://github.com/laraalvesoliveira/projeto-bugbusters#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "cypress": "^14.5.2"
+  }
+}
