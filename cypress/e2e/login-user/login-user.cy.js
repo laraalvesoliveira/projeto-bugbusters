@@ -1,3 +1,5 @@
+import '../../pages/LoginPage/LoginPage.js'
+
 describe('Validar Login de Usuários', () => {
 
     it('Validar redirecionamento de página ao clicar no botão login', () => {
